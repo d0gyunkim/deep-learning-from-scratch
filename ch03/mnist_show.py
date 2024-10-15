@@ -21,3 +21,5 @@ img = img.reshape(28, 28)  # 형상을 원래 이미지의 크기로 변형
 print(img.shape)  # (28, 28)
 
 img_show(img)
+
+
